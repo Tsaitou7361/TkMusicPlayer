@@ -1,9 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
 
-
-import extendedtkinter as etk
-
 from os import PathLike
 from pathlib import Path
 
